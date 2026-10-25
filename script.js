@@ -22,7 +22,7 @@
       event.preventDefault();
       const data = new FormData(form);
       // Replace this placeholder with your official business email before launch.
-      const recipient = "YOUR-BUSINESS-EMAIL@example.com";
+      const recipient = "dada.diwane001@gmail.com";
       if (recipient.includes("YOUR-BUSINESS-EMAIL")) {
         status.textContent = "Website setup required: replace YOUR-BUSINESS-EMAIL@example.com in script.js with your official business email.";
         return;
