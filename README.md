@@ -1,0 +1,1 @@
+# first-infotech-azure-static-website
